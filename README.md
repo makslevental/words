@@ -21,3 +21,5 @@ explicate: explain and develop, analyze a literary work in order to reveal its m
 steroeisomer: Stereoisomers are isomeric molecules that have the same molecular formula and sequence of bonded atoms (constitution), but differ in the three-dimensional orientations of their atoms in space
 
 enantiomer: mirror image isomers
+
+lacuna: missing portion of a book
