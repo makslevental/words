@@ -23,3 +23,5 @@ steroeisomer: Stereoisomers are isomeric molecules that have the same molecular 
 enantiomer: mirror image isomers
 
 lacuna: missing portion of a book
+
+mordant: (especially of humor) having or showing a sharp or critical quality; biting.
