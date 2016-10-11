@@ -25,3 +25,5 @@ enantiomer: mirror image isomers
 lacuna: missing portion of a book
 
 mordant: (especially of humor) having or showing a sharp or critical quality; biting.
+
+sedulous: 1530s, from Latin sedulus "attentive, painstaking, diligent, busy, zealous," probably from sedulo (adv.) "sincerely, diligently," from sedolo "without deception or guile," from se- "without, apart" + dolo, ablative of dolus "deception, guile," cognate with Greek dolos "ruse, snare."
